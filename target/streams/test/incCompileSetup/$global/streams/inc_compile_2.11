@@ -1,0 +1,250 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$1.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$10.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$12.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$13.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$14.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$15.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$16.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$23.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$24.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$18.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$19.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$2.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$20.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$21.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$22.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$3.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$4.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$5.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$6.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$7.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$8.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$9.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$treeFromList$1.class
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec.class
+binary dependencies:
+3 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /Users/YD/Downloads/HW1/lib/scalatest_2.11-2.2.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$1
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$10
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$11
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$12
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$13
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$14
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$15
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$16
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17$$anonfun$23
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17$$anonfun$24
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$18
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$19
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$2
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$20
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$21
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$22
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$3
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$4
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$5
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$6
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$7
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$8
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$9
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec$$anonfun$treeFromList$1
+used names:
+73 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> $org_scalatest_assert_macro_expr
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> $org_scalatest_assert_macro_left
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> $org_scalatest_assert_macro_right
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> /:
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> <init>
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> ==
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> ===
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> BSTree
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> Bool
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> Empty
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> Equality
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> FlatSpec
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> HW1Spec
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> IllegalArgumentException
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> Int
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> List
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> ManifestFactory
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> abs
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> apply
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> assert
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> assertionsHelper
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> binaryMacroBool
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> classType
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> convertToEqualizer
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> convertToInAndIgnoreMethods
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> convertToStringShouldWrapper
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> default
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> del
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> delete
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> deleteMin
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> eval
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> f
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> immutable
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> in
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> ins
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> insert
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> intercept
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> java
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> l
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> lang
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> macroAssert
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> n
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> notBool
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> org
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> package
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> reflect
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> repOk
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> repeat
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> scala
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> scalactic
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> scalatest
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> shorthandTestRegistrationFunction
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> should
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> simpleMacroBool
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> sqrtErr
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> sqrtN
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> sqrtStep
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> swap
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t1
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t10
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t11
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t2
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t3
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t4
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t5
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t6
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t7
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t8
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> t9
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> treeFromList
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> unary_!
+product stamps:
+33 items
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$1.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$10.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$11.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$12.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$13.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$14.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$15.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$16.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$1.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$23.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$2.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$24.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$17.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$18.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$19.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$2.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$20.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$21.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$22.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$3.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$4.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$5.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$6.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$7.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$8.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$9.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec$$anonfun$treeFromList$1.class -> lastModified(1423273227000)
+/Users/YD/Downloads/HW1/target/scala-2.11/test-classes/HW1Spec.class -> lastModified(1423273227000)
+source stamps:
+1 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> hash(438623aa9fe6aa031399cdb89fe2c8c6a252364b)
+binary stamps:
+3 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> lastModified(1381430168000)
+/Users/YD/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/Users/YD/Downloads/HW1/lib/scalatest_2.11-2.2.1.jar -> lastModified(1422904544000)
+class names:
+3 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> java.lang.String
+/Users/YD/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.Tuple2
+/Users/YD/Downloads/HW1/lib/scalatest_2.11-2.2.1.jar -> org.scalatest.FlatSpec
+internal apis:
+1 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAvOKHbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwq+5BmHQAGmNvbnZlcnRUb1N0cmluZ011c3RXcmFwcGVyc3EAfgALs/6GhXQAGWNvbnZlcnRUb1N0cmluZ0NhbldyYXBwZXJzcQB+AAsZ2SqYdAASY29udmVydFRvRXF1YWxpemVyc3EAfgAL7Cq/E3QAKGNvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kc0FmdGVyVGFnZ2VkQXNzcQB+AAtc149SdAAnc2hvcnRoYW5kU2hhcmVkVGVzdFJlZ2lzdHJhdGlvbkZ1bmN0aW9uc3EAfgALEhBJkXQAFXVuY29uc3RyYWluZWRFcXVhbGl0eXNxAH4ACxISpXB0ABtjb252ZXJ0VG9JbkFuZElnbm9yZU1ldGhvZHNzcQB+AAuR3Z3PdAAcY29udmVydFRvU3RyaW5nU2hvdWxkV3JhcHBlcnNxAH4AC1Hg80V0ACFzaG9ydGhhbmRUZXN0UmVnaXN0cmF0aW9uRnVuY3Rpb251cQB+AAkAAACOc3EAfgAL0UZFdXQABmFzc2VydHNxAH4AC8JJmlB0AAZub3RpZnlzcQB+AAtulzd/dAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtx3vNidAAQQXNzZXJ0aW9uc0hlbHBlcnNxAH4ACyzUIGR0AAZjYW5jZWxzcQB+AAuQJZBjdAARZXhlY3V0ZSRkZWZhdWx0JDJzcQB+AAt9lLsXdAAMZXhwZWN0UmVzdWx0c3EAfgAL5beU6XQACWludGVyY2VwdHNxAH4ACygA+GV0AARmYWlsc3EAfgALOKXFYHQAFEl0VmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgALm9dr2nQABG5hbWVzcQB+AAvy/RgHdAACdDRzcQB+AAt65K2RdAACdDVzcQB+AAsmk+dHdAACaW5zcQB+AAt/J6C+dAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAu+76IedAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAs6KTU+dAACaXNzcQB+AAt273OCdAAHZXhlY3V0ZXNxAH4AC3Ypzbx0AAR3YWl0c3EAfgALgbCYlnQAC3Rlc3REYXRhRm9yc3EAfgALfvc4aXQAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAuI95OqdAAJc3R5bGVOYW1lc3EAfgALK2b/AXQADSRhc0luc3RhbmNlT2ZzcQB+AAsnuFJndAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAthBE5hdAACdDlzcQB+AAuqxzTgdAAJY29uZmlnTWFwc3EAfgALzKEl1nQAC2RpZmZTdHJpbmdzc3EAfgALZoLANHQABmVxdWFsc3NxAH4AC5zsn/50ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC/scpB90AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAul8W6sdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC6JSLIt0AARtdXN0c3EAfgALv8PMW3QABHRhZ3NzcQB+AAuMUMOedAAMYXNJbnN0YW5jZU9mc3EAfgALgIeFmHQABWFsZXJ0c3EAfgAL2mnBkXQAA3J1bnNxAH4AC/+Yzbt0AA9MZWdhY3lFcXVhbGl6ZXJzcQB+AAv/bXf1dAAGc2NvcGVzc3EAfgALzIeav3QAGGNvbnZlcnRUb0xlZ2FjeUVxdWFsaXplcnNxAH4AC9TIXtF0AAxzeW5jaHJvbml6ZWRzcQB+AAsMWrw8dAAEbGVmdHNxAH4ACxURCEx0AAJpdHNxAH4AC/HwmHp0AA5hc3NlcnRDb21waWxlc3NxAH4AC/Qfwt10AAdIVzFTcGVjc3EAfgALPAChk3QADmxlZnRTaWRlU3RyaW5nc3EAfgALo0IDAXQADSRpc0luc3RhbmNlT2ZzcQB+AAu15Y1VdAAEdHJhcHNxAH4AC99pk1l0AAJ0M3NxAH4AC5Q7Vdp0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAvqRXCAdAASSW5BbmRJZ25vcmVNZXRob2Rzc3EAfgAL4mreOXQADGFzc2VydFJlc3VsdHNxAH4AC2U5uIB0AAJ0NnNxAH4ACwvc6Y50ABdTdHJpbmdDYW5XcmFwcGVyRm9yVmVyYnNxAH4ACzrcmIh0AAR0ZXh0c3EAfgALtcZAiXQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALaUvnp3QABHRoZXlzcQB+AAsuXR7RdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAuBXrWLdAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALquoj+3QAAyE9PXNxAH4ACwC5GpR0AARpbmZvc3EAfgAL1jkzj3QACW5vdGlmeUFsbHNxAH4AC3lTMXR0AAxJdFZlcmJTdHJpbmdzcQB+AAvyv2P5dAALd2l0aEZpeHR1cmVzcQB+AAsj2BOtdAAHcnVuVGVzdHNxAH4AC1AZdq10AAxpc0luc3RhbmNlT2ZzcQB+AAvWerrodAAId2l0aENsdWVzcQB+AAugkj6XdAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC2kyms10ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4ACzb9uu10AAh0YWdnZWRBc3NxAH4AC9SvtVZ0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAvhT8R7dAAGbWFya3Vwc3EAfgALfK8IEnQACGxlZnRTaWRlc3EAfgAL4juSSXQAAnQyc3EAfgALb5mAmnQAAnQ3c3EAfgALTxhjUHQABjxpbml0PnNxAH4AC+Hd6cl0AAttYWNyb0Fzc3VtZXNxAH4AC/Rx6Mx0AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAuDMmoCdAADY2Fuc3EAfgAL2sqDcnQABkl0V29yZHNxAH4AC3KKfbZ0AAVhcHBseXNxAH4AC6nTxNx0AAlFcXVhbGl6ZXJzcQB+AAvIbeOLdAAbbmV3QXNzZXJ0aW9uRmFpbGVkRXhjZXB0aW9uc3EAfgAL2pTHmnQABG5vdGVzcQB+AAsJ17dldAACPT1zcQB+AAunoHGIdAAfSW5BbmRJZ25vcmVNZXRob2RzQWZ0ZXJUYWdnZWRBc3NxAH4ACz0HOsZ0AAVjbG9uZXNxAH4AC0yKU1J0AAxCZWhhdmlvcldvcmRzcQB+AAtf9WGfdAAGZXhwZWN0c3EAfgALvxy+xnQABnNob3VsZHNxAH4AC+6Vz290AAxuZXN0ZWRTdWl0ZXNzcQB+AAsKYke5dAAGYXNzdW1lc3EAfgALHhnnB3QABiRpbml0JHNxAH4AC6n+1b10ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC1HRtft0AAhUaGV5V29yZHNxAH4AC/ktcet0AAN0MTBzcQB+AAuYZ50VdAAMcmVnaXN0ZXJUZXN0c3EAfgALoQ8QKHQAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALBuQy33QAAz09PXNxAH4ACy3K1e50AAJ0OHNxAH4AC71wma10ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAvh2gJmdAAIdG9TdHJpbmdzcQB+AAukJtD5dAAJdGVzdE5hbWVzc3EAfgAL8sUbwXQAGFN0cmluZ011c3RXcmFwcGVyRm9yVmVyYnNxAH4AC0jYRsp0ABFleGVjdXRlJGRlZmF1bHQkMXNxAH4AC/gT7WZ0AAIhPXNxAH4AC9X8KRh0AAx0cmVlRnJvbUxpc3RzcQB+AAvmBvTDdAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAvBu2gXdAAYSWdub3JlVmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgAL2RP9lHQACGdldENsYXNzc3EAfgALg4+EtXQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAsBTTEDdAAGYmVoYXZlc3EAfgALdJNaZXQACHJ1blRlc3Rzc3EAfgAL5exe/nQACGJlaGF2aW9yc3EAfgAL+lGDtXQAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALvoQVeHQADlRoZXlWZXJiU3RyaW5nc3EAfgALazxiS3QAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALfj2GsnQACHJlcnVubmVyc3EAfgALCXdkaHQAAnQxc3EAfgAL+qHTjXQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnN0cmFpbnRzcQB+AAvulH/udAACbmVzcQB+AAt86qnHdAAWVGhleVZlcmJTdHJpbmdUYWdnZWRBc3NxAH4AC/wJvMB0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC7r9Bkd0ACBjb252ZXJ0VG9MZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4AC73CvY10AAdwZW5kaW5nc3EAfgALJKKpXHQABmlnbm9yZXNxAH4ACwzHgXN0ABBJZ25vcmVWZXJiU3RyaW5nc3EAfgALEMtstXQAC21hY3JvQXNzZXJ0c3EAfgALJtNWJXQAAmVxc3EAfgALGxFZHnQAG2dldE9iamVjdHNGb3JGYWlsdXJlTWVzc2FnZXNxAH4AC+qsbJp0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4ACxOIxhp0AAJvZnNxAH4AC2r7AZV0AAlOb0FyZ1Rlc3RzcQB+AAuIS1CsdAAKSWdub3JlV29yZHNxAH4ACy3SmpJ0AAN0MTFzcQB+AAv20GebdAACIyNzcQB+AAtWBvAVdAAaU3RyaW5nU2hvdWxkV3JhcHBlckZvclZlcmJzcQB+AAt9SjmTdAAIZmluYWxpemVzcQB+AAteH2k6dAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALvL1WvXQACGhhc2hDb2Rlc3EAfgAL8jnBLXQAB3N1aXRlSWRzcQB+AAvv0AA6dAAJc3VpdGVOYW1lc3EAfgALid4pIXQABmFwcGVuZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AUV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4Ad3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHQAEHNjYWxhLmRlcHJlY2F0ZWRzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AV94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AV4AcHNxAH4BY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFFTAAJaW5oZXJpdGVkcQB+AUVMAAdwYXJlbnRzcQB+AUV4cQB+AWdzcQB+AV4AcHNxAH4BY3VxAH4BQAAAAABzcQB+AV4AcHNxAH4BY3VxAH4BQAAAAABzcQB+AV4AcHNxAH4BY3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAASc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BZnQACEZsYXRTcGVjc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AYN0AAlzY2FsYXRlc3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BhHNxAH4Bd3QADEZsYXRTcGVjTGlrZXEAfgF9c3EAfgF3dAALRG9jdW1lbnRpbmdxAH4BfXNxAH4Bd3QACEFsZXJ0aW5ncQB+AX1zcQB+AXd0AAlOb3RpZnlpbmdxAH4BfXNxAH4Bd3QACUluZm9ybWluZ3EAfgF9c3EAfgF3dAAHQ2FuVmVyYnNxAH4Be3NxAH4BfnVxAH4BgQAAAARzcQB+AYN0AANvcmdzcQB+AYN0AAlzY2FsYXRlc3RzcQB+AYN0AAV3b3Jkc3EAfgGKc3EAfgF3dAAITXVzdFZlcmJxAH4Bl3NxAH4Bd3QAClNob3VsZFZlcmJxAH4Bl3NxAH4Bd3QAEFRlc3RSZWdpc3RyYXRpb25xAH4BfXNxAH4Bd3QABVN1aXRlcQB+AX1zcQB+AXd0AAxTZXJpYWxpemFibGVzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDdAAEamF2YXNxAH4Bg3QAAmlvcQB+AYpzcQB+AXd0AA1BYnN0cmFjdFN1aXRlcQB+AX1zcQB+AXd0AApBc3NlcnRpb25zcQB+AX1zcQB+AXd0AAxUcmlwbGVFcXVhbHNzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDdAADb3Jnc3EAfgGDdAAJc2NhbGFjdGljcQB+AYpzcQB+AXd0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AbdzcQB+AXd0AAZPYmplY3RzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDcQB+Aa5zcQB+AYN0AARsYW5ncQB+AYpzcQB+AXd0AANBbnlzcQB+AXtzcQB+AX51cQB+AYEAAAACc3EAfgGDdAAFc2NhbGFxAH4BinVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLYbHjp3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADYvVXNlcnMvWUQvRG93bmxvYWRzL0hXMS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRDhiOqn+aqAxOZzbif4sjGolI2Sw==
+external apis:
+1 items
+HW1$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA0wP1FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAR3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBmkskR0AAZub3RpZnlzcQB+AAy0BJUcdAAFc3FydE5zcQB+AAxaYM2adAAHdW5hcHBseXNxAH4ADMRz0kB0AAdjdXJyaWVkc3EAfgAMlZto2XQABHdhaXRzcQB+AAzDJnrXdAAOY29weSRkZWZhdWx0JDJzcQB+AAwzvpyIdAANJGFzSW5zdGFuY2VPZnNxAH4ADEysL9t0ABA8aW5pdD4kZGVmYXVsdCQxc3EAfgAMSANkInQABmluc2VydHNxAH4ADLgz96N0AAxwcm9kdWN0QXJpdHlzcQB+AAyALqmtdAAEcGx1c3NxAH4ADIdKBeF0AAZlcXVhbHNzcQB+AAyDCEoVdAAFdXNhZ2VzcQB+AAxWLIxFdAAMYXNJbnN0YW5jZU9mc3EAfgAMIrw36HQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMeGi4EnQABXJlcE9rc3EAfgAM/qvbInQADHN5bmNocm9uaXplZHNxAH4ADHW1EtN0AAlkZWxldGVNaW5zcQB+AAyDZ8VAdAANJGlzSW5zdGFuY2VPZnNxAH4ADH382W90AAROb2Rlc3EAfgAMshyTgHQABnR1cGxlZHNxAH4ADNG9oTd0AAdzcXJ0RXJyc3EAfgAMkLan73QAA0hXMXNxAH4ADMI4MpN0AAhjYW5FcXVhbHNxAH4ADGMfqId0AAZjb25maWdzcQB+AAw5375RdAAEbWFpbnNxAH4ADL2hX3d0AA1wcm9kdWN0UHJlZml4c3EAfgAMI0k6anQABWZpbGVzc3EAfgAMecFoHHQACW5vdGlmeUFsbHNxAH4ADK49iP50AAtyZWFkUmVzb2x2ZXNxAH4ADIACSsF0AAVkZWJ1Z3NxAH4ADG5ZNv90AAxpc0luc3RhbmNlT2ZzcQB+AAw+XlVtdAAHYmFkcGx1c3NxAH4ADAnh4Vh0AARldmFsc3EAfgAMcp7FMnQABjxpbml0PnNxAH4ADH6J8gV0AAZDb25maWdzcQB+AAwBVdRbdAAIc3FydFN0ZXBzcQB+AAwYjHZKdAAPYXBwbHkkZGVmYXVsdCQyc3EAfgAM58oQ5HQABHNxcnRzcQB+AAy3k7T+dAAFYXBwbHlzcQB+AAzy66JFdAAFRW1wdHlzcQB+AAyZQgsNdAABbHNxAH4ADChPfHV0AAI9PXNxAH4ADPuaRKl0AAVjbG9uZXNxAH4ADDXWEdF0AAl0ZXN0UGx1czJzcQB+AAztDKY2dAAGQlNUcmVlc3EAfgAMjeVIn3QABmRlbGV0ZXNxAH4ADBX376B0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADFxonIJ0AARzd2Fwc3EAfgAM1z1yTHQABGNvcHlzcQB+AAwKsKL+dAAPYXBwbHkkZGVmYXVsdCQxc3EAfgAMP1cgI3QACHRvU3RyaW5nc3EAfgAM6m8nAXQABGFyZ3NzcQB+AAwT0xnidAACIT1zcQB+AAylo/LSdAAIZ2V0Q2xhc3NzcQB+AAygfYKIdAAGcmVwZWF0c3EAfgAMLkyhJ3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMMcDmbnQAAXJzcQB+AAwf+/3sdAADYWJzc3EAfgAM7fulrHQAAm5lc3EAfgAMRkUrQHQACXRlc3RQbHVzMXNxAH4ADGrJXKh0ABA8aW5pdD4kZGVmYXVsdCQyc3EAfgAM/s34KXQAAmVxc3EAfgAMm2GLaHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCHJum50AAtkZWxheWVkSW5pdHNxAH4ADBfjYBR0AAIjI3NxAH4ADIZi14d0AAhmaW5hbGl6ZXNxAH4ADC5f2zZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADNY2j9B0AAhoYXNoQ29kZXNxAH4ADFPXXCN0AAtwcm9jZXNzRmlsZXNxAH4ADIuBgZ90AAFkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ApXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA7dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Av3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AvgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ApUwACWluaGVyaXRlZHEAfgClTAAHcGFyZW50c3EAfgCleHEAfgDHc3EAfgC+AXVxAH4AoAAAAABwc3EAfgC+AXVxAH4AoAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ApnEAfgCvdXEAfgCwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A0XhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDGdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AOtzcQB+ALIAcQB+AEF1cQB+ALQAAAAAc3EAfgDedAAEVW5pdHEAfgDkdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A0XhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4At3QABVBsYWlucQB+AHdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AN9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMZzcQB+AN50AAVBcnJheXEAfgDkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AN50AAZTdHJpbmdzcQB+AOJzcQB+AOV1cQB+AOgAAAADc3EAfgDqdAAEamF2YXNxAH4A6nQABGxhbmdxAH4A73BzcQB+AL4BdXEAfgEGAAAABXNxAH4A3nQABUpzQXBwc3EAfgDic3EAfgDldXEAfgDoAAAAA3NxAH4A6nQAAmpzc3EAfgDqdAAEdXRpbHEAfgDvc3EAfgDedAADQXBwcQB+AORzcQB+AN50AAtEZWxheWVkSW5pdHEAfgDkc3EAfgDedAAGT2JqZWN0cQB+AQpzcQB+AN50AANBbnlxAH4A5HBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUthsWH0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMS9Vc2Vycy9ZRC9Eb3dubG9hZHMvSFcxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSMa+Y+y17jwOSLfthSHU/EMNv1eA==
+source infos:
+1 items
+/Users/YD/Downloads/HW1/src/test/scala/HW1Spec.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2Gx46d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9Vc2Vycy9ZRC9Eb3dubG9hZHMvSFcxL3RhcmdldC9zY2FsYS0yLjExL3Rlc3QtY2xhc3Nlc3QAAS8=
